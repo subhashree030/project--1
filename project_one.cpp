@@ -17,7 +17,7 @@ int main() {
   float total= 0;
   cout << "Welcome to XYZ"<<endl;
   cout<< "--------------";
-  cout<<"\nOrder Now! Discount: 18% above Rs 500."<<endl;
+  cout<<"\nOrder Now! Discount: 18% above Rs 500.";
   cout<<"\nAvailable Fruits/vege:\n\tApple:Rs18/kg\n\tPotato:Rs20/kg\n\tBanana:Rs15/kg"<<endl;
   cout<<"OK sir/mam, what would you like to order:";
   cin>>fruit;
